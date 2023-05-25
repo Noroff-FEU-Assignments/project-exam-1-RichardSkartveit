@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/Blog.css/contact.css">
+    <title>Document</title>
+</head>
+<body>
+    <!-- header -->
+    <header>
+        <nav class = "navbar">
+          <div class = "container">
+            <a href = "index.html" class = "navbar-brand">DeLK.Blog</a>
+            <div class = "navbar-nav">
+              <a href = "">Home</a>
+              <a href = "">Blog post</a>
+              <a href = "">Contact</a>
+              <a href = "">About</a>
+            </div>
+          </div>
+        </nav>
+        <div class = "banner">
+          <div class = "container">
+            <h1 class = "banner-title">
+              <span>Art.</span> Design Blog
+            </h1>
+            <p>Everything that you want to know about news</p>
+            <form>
+              <input type = "text" class = "search-input" placeholder="find your blog . . .">
+              <button type = "submit" class = "search-btn">
+                <i class = "fas fa-search"></i>
+              </button>
+            </form>
+          </div>
+        </div>
+      </header>
+      <!-- end of header -->
+    <div class="container">
+        <div style="text-align:center">
+          <h2>Contact Us</h2>
+          <p>Swing by for a cup of coffee, or leave us a message:</p>
+        </div>
+        <div class="row">
+          <div class="column">
+            <img src="/images/finans/simon-hurry-Lhx_5_DJajE-unsplash.jpg" style="width:100%">
+          </div>
+          <div class="column">
+            <form action="/action_page.php">
+              <label for="fname">First Name</label>
+              <input type="text" id="fname" name="firstname" placeholder="Your name..">
+              <label for="lname">Last Name</label>
+              <input type="text" id="lname" name="lastname" placeholder="Your last name..">
+              <label for="country">Country</label>
+              <select id="country" name="country">
+                <option value="australia">Australia</option>
+                <option value="canada">Canada</option>
+                <option value="usa">USA</option>
+              </select>
+              <label for="subject">Subject</label>
+              <textarea id="subject" name="subject" placeholder="Write something.." style="height:170px"></textarea>
+              <input type="submit" value="Submit">
+            </form>
+          </div>
+        </div>
+      </div>
+</body>
+</html>
