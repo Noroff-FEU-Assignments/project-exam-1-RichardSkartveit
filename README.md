@@ -23,10 +23,7 @@ You can add some bullet points if you'd like to:
 
 ## Getting Started
 
-### Installing
-
-
-#Clone the repo:
+### Clone the repo:
 
 ```bash
 git clone https://github.com/Noroff-FEU-Assignments/project-exam-1-RichardSkartveit
