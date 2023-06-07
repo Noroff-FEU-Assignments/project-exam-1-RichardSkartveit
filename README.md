@@ -1,6 +1,6 @@
 # DeLK
 
-[image](https://github.com/Noroff-FEU-Assignments/project-exam-1-RichardSkartveit/assets/114581981/9c923fe9-fd1b-4ae8-b2ab-27d2315736d2)
+![image]![image](https://github.com/Noroff-FEU-Assignments/project-exam-1-RichardSkartveit/assets/114581981/9c923fe9-fd1b-4ae8-b2ab-27d2315736d2)
 
 A simple overview of the use/purpose of the project.
 
