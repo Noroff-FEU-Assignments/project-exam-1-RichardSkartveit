@@ -7,8 +7,10 @@ A simple overview of the use/purpose of the project.
 ## Description
 
 Project exam assignment. Build a Blog webpage.
+School project exam, where the purpose was to build a blog. 
+i buildt a blog around a small community who shares newsletter, blog and etc. 
 
-You can add some bullet points if you'd like to:
+Listed themes:
 
 - Home page
 - Blog page
